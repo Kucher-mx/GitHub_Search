@@ -1,0 +1,31 @@
+.ProfileRight {
+    padding: 15px;
+}
+
+.Repos {
+    display: flex;
+    justify-content: center;
+    margin: 25px 0;
+    flex-wrap: wrap;
+
+}
+
+.Sorry {
+    text-align: center;
+    font-size: 24px;
+}
+
+.Repos a {
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.FontSize {
+    font-size: 32px;
+}
+
+.Profile_img {
+    width: 200px;
+    border-radius: 5px;
+}
